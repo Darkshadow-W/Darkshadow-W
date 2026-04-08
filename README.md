@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br><br>🌱 I’m currently learning<br>
+🔭 I’m currently working on practical projects <br><br>🌱 I’m currently learning Web development<br>
 
 
 # 💻 Tech Stack:
